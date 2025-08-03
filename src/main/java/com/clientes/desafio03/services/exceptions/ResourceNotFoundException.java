@@ -1,4 +1,4 @@
-package com.clientes.desafio03.exceptions;
+package com.clientes.desafio03.services.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException {
 	
